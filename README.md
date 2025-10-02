@@ -53,6 +53,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## C
 
 - [Profanity](https://github.com/profanity-im/profanity) _(label: good first issue)_ <br> Ncurses XMPP chat client.
+- 
+## Python
+- [First-Contributions](https://github.com/firstcontributions/first-contributions) - A beginner friendly project to help you make your first contribution.  
+
 
 ## C#
 
